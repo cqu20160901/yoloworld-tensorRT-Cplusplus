@@ -11,9 +11,7 @@ TensorRT版本：TensorRT-7.1.3.4
 导出适配本实例的onnx模型参考[【yolov9 瑞芯微芯片rknn部署、地平线芯片Horizon部署、TensorRT部署】](https://blog.csdn.net/zhangqian_1/article/details/136321979)。
 
 
-## 编译
-
-修改 CMakeLists.txt 对应的TensorRT位置
+## 修改 CMakeLists.txt 对应的TensorRT位置
 
 ```powershell
   cmake_minimum_required(VERSION 3.5)
@@ -32,6 +30,7 @@ TensorRT版本：TensorRT-7.1.3.4
 
 ```
 
+## 编译
 ```powershell
 cd yoloworld_tensorRT_Cplusplus
 mkdir build
