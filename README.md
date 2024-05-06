@@ -51,7 +51,7 @@ cd build
 
 onnx 测试效果
 
-![test](https://github.com/cqu20160901/yolov9_tensorRT_Cplusplus/assets/22290931/0a91af3c-37b6-4827-8857-0f7ce95e7794)
+![test_onnx_result](https://github.com/cqu20160901/yoloworld-tensorRT-Cplusplus/assets/22290931/5f39678d-4d6c-4469-8757-e80ec7d2393a)
 
 
 tensorRT 测试效果
